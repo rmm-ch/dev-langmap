@@ -1,0 +1,6 @@
+numpy
+pandas
+plotly
+dash
+# for deployment on render.com
+gunicorn
